@@ -1,0 +1,11 @@
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\papka\papka2.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\texts1.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\texts2.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\texts3.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\texts4.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\texts5.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\folder1.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\folder2.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\directory\directory1.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\papka\papka1.txt
+D:\Study\PTOCTXVII\programmingptoctxvii\.\src\main\resources\texts\folder\papka\papka2.txt

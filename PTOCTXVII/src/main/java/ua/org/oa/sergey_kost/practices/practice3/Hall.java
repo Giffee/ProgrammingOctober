@@ -1,0 +1,19 @@
+package ua.org.oa.sergey_kost.practices.practice3;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+import java.util.List;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+public class Hall {
+    private String name;
+    private int row;
+    private int seat;
+    private List<Session> sessionList;
+}
